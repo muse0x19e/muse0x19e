@@ -3,6 +3,7 @@
 I’m passionate about defensive security engineering and enterprise networking. Here you’ll find projects that harden systems, hunt threats, and keep bits flowing smoothly.
 
 
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
