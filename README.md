@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/mustafakahriman/">Mustafa Kahriman</a>'s Cybersecurity & Networt Engineering Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/mustafakahriman/">Mustafa Kahriman</a>'s Cybersecurity & Networt Engineering Project Portfolio 💼 
 
 I’m passionate about defensive security engineering and enterprise networking. Here you’ll find projects that harden systems, hunt threats, and keep bits flowing smoothly.
 
