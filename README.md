@@ -15,6 +15,8 @@ I’m passionate about defensive security engineering and enterprise networking.
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
+## 🌐 Network Security Projects
+- **[On-Premise SOC Lab (Integration with pfSense+Splunk+Snort)](github project link)**
 <hr/>
 
 ## 🤳 Connect With Me
