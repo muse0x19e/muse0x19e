@@ -9,7 +9,7 @@ I’m passionate about defensive security engineering and enterprise networking.
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/muse0x19e/vulnerability-management-program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/muse0x19e/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations on Linux](https://github.com/muse0x19e/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
